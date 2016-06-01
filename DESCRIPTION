@@ -1,0 +1,14 @@
+Package: zikaABM
+Title: zikaABM
+Version: 1.0.0
+Author: James Hay
+Maintainer: James Hay <jameshay218@gmail.com>
+Description: zikaABM
+License: GPL-2
+LazyData: true
+LinkingTo: Rcpp
+URL: https://github.com/<gh-username>/zikaABM
+BugReports: https://github.com/<gh-username>/zikaABM/issues
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
